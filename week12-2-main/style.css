@@ -1,0 +1,28 @@
+#blinkText {
+        color: #2d38be;
+        transition: 0.5s;
+}
+
+body {
+        background-image: linear-gradient(to right, white, fuchsia, blue);
+}
+
+#dataTable {
+        background-image: linear-gradient(to bottom, white, skyblue 75%);
+}
+
+.button{
+        width: 100px;
+        height: 30px;
+        background-color: white;
+        border-radius: 12px;
+        border-color: lightblue;
+}
+
+.buttonlg{
+        width: 200px;
+        height: 30px;
+        background-color: white;
+        border-radius: 12px;
+        border-color: lightblue;
+}
